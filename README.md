@@ -7,7 +7,9 @@ ID :CT04AI2137
 Domain :ARTIFICAL INTELLIGENCE
 
 Duration :15TH JUNE 2024 to 15TH JULY 2024
+
 Mentor :G.SRAVANI
+
 ![firsttaskoutput](https://github.com/Pradeep-punnam/CODTECH-task1/assets/173257708/83d6a8a6-6c51-43a1-9d6a-c602b9d731cf)
 
 
